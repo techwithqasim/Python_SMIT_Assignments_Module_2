@@ -1,0 +1,9 @@
+2024-06-02 23:29:05.338509: Preliminaries complete. Initiating ETL process.
+2024-06-02 23:29:08.292840: Data Extracted Successfully from Wikipedia.
+2024-06-02 23:29:08.292840: Extraction Completed.
+2024-06-02 23:29:08.292840: Data Transformation Done Now, Step 2 Completed..
+2024-06-02 23:29:08.292840: Data Transformed Successfully.
+2024-06-02 23:29:08.308683: Data Loaded into the CSV File.
+2024-06-02 23:29:08.308683: DataFrame has been uploaded into the CSV file on our PC.
+2024-06-02 23:29:08.677358: Data Loaded into the SQLite Database.
+2024-06-02 23:29:08.677358: DataFrame has been uploaded into the SQLite Database Successfully.
